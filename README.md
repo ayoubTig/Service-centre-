@@ -46,3 +46,13 @@ accessibles à tout le monde.
 les données des utilisateurs doivent être en toute sécurité.
 ### L’évolution :
 la possibilité de supprimer ou rajouter des clients et des annonceurs sans modification majeure sur le site web
+[Simplonline](http://www.simplonline.com)
+## les screenshoots des interfaces :
+
+![alt text](https://github.com/ayoubTig/Service-centre-/blob/master/LesImages/Capture.PNG)
+![alt text](https://github.com/ayoubTig/Service-centre-/blob/master/LesImages/2.PNG)
+![alt text](https://github.com/ayoubTig/Service-centre-/blob/master/LesImages/3.PNG)
+![alt text](https://github.com/ayoubTig/Service-centre-/blob/master/LesImages/4.PNG)
+![alt text](https://github.com/ayoubTig/Service-centre-/blob/master/LesImages/5.PNG)
+![alt text](https://github.com/ayoubTig/Service-centre-/blob/master/LesImages/6.PNG)
+![alt text](https://github.com/ayoubTig/Service-centre-/blob/master/LesImages/7.PNG)
