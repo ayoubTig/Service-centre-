@@ -1,13 +1,14 @@
 # Service-centre-
-ce projet est une plateforme web de déposition des annonces des services à la fois pour les particuliers et les professionnels qui permettent aux offreurs de présenter les différents services qu’ils peuvent offrir aux clients. De plus, notre plateforme permet aux utilisateurs de déposer leurs annonces s’ils sont à la recherche d'une personne apte à remplir une mission ponctuelle ou à plus long terme dans n'importe quel domaine et spécialité. Alors notre problématique c’est de développer une plateforme avec certaines spécificités et permettant à un annonceur de déposer une annonce de type offre de services ou de type demande de service
+## le principe de projet: 
+Ce projet est une plateforme web de déposition des annonces des services à la fois pour les particuliers et les professionnels qui permettent aux offreurs de présenter les différents services qu’ils peuvent offrir aux clients. De plus, notre plateforme permet aux utilisateurs de déposer leurs annonces s’ils sont à la recherche d'une personne apte à remplir une mission ponctuelle ou à plus long terme dans n'importe quel domaine et spécialité. Alors notre problématique c’est de développer une plateforme avec certaines spécificités et permettant à un annonceur de déposer une annonce de type offre de services ou de type demande de service
 
 ## Les acteurs:
-o L’administrateur : notre site est dynamique dont le contenu est renouvelé ce qui
+1.  L’administrateur : notre site est dynamique dont le contenu est renouvelé ce qui
 nécessite une partie lié à l’administration pour gérer les différentes options notre
 plateforme.
-o L’annonceur : son rôle est de bien présenter ses services ou ses besoins en déposant
+2. L’annonceur : son rôle est de bien présenter ses services ou ses besoins en déposant
 des annonces.
-o Le client : puisque les clients sont le centre d’intérêt de notre site. Alors le client est
+3. Le client : puisque les clients sont le centre d’intérêt de notre site. Alors le client est
 un acteur principal dans notre système.
 ## Besoins fonctionnels:
 
@@ -43,3 +44,5 @@ le site devra être hautement sécurisé, les informations ne devront pas être
 accessibles à tout le monde.
 ### La confidentialité :
 les données des utilisateurs doivent être en toute sécurité.
+### L’évolution :
+la possibilité de supprimer ou rajouter des clients et des annonceurs sans modification majeure sur le site web
